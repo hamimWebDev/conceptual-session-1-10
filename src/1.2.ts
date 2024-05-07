@@ -19,11 +19,14 @@
     club: string;
     season: number;
     isTransferred?: boolean;
+    plyer: "cr7";
   };
 
   const ucl: obj = {
     club: "real madrid",
     season: 2019,
+    isTransferred: false,
+    plyer: "cr7",
   };
   //
 }
